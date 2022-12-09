@@ -1,0 +1,18 @@
+ul li{
+    margin: auto;
+    width: 20%;
+    list-style-type:none ;
+    padding: 8px 6px 8px 6px;
+}
+
+li:nth-child(odd){
+    background-color: blueviolet;
+}
+
+li.cuadro{
+    background-color: chartreuse;
+}
+
+li.oxo {
+    background-color: bisque;
+}
